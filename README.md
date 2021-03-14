@@ -1,5 +1,9 @@
 # Federated Learning of Cohorts (FLoC) - Google's solution for interest based advertising in a world without third-party cookies
 
+![cookies](food-photographer-jennifer-pallian-OfdDiqx8Cz8-unsplash.jpg)
+
+Photo by <a href="https://unsplash.com/@foodess?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Food Photographer | Jennifer Pallian</a> on <a href="/s/photos/cookie?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 ## The end of third-party cookies for advertisers
 
 Third-party cookies have (since 1994) been a key enabler of the commercial Internet and **fine-grained digital ad targeting**
