@@ -21,7 +21,7 @@ In this post you will learn a little more about **FLoC**, an alternative propose
 
 ### Overview
 - Relies on a **cohort** assigning mechanism: a function that allocates a cohort id to a user based on their **browsing history**
-- This cohort id must be shared by at least k distinct users for privacy
+- This cohort id **must be shared by at least k distinct users** for privacy
 
 ### Privacy x Utility
 > "The more users share a cohort id, the **harder it is to derive individual** user's behavior from across the web. On the other hand, a large cohort is more likely to have a diverse set of users, thus making it harder to use this information for **fine-grained ads personalization** purposes."
@@ -29,7 +29,7 @@ In this post you will learn a little more about **FLoC**, an alternative propose
 **Ideal cohort assignment**: group together a large number of users interested in similar things
 
 ### Intersections with Data Science
-- [Federated Learning](https://federated.withgoogle.com/)
+- [Federated Learning](https://federated.withgoogle.com/): machine learning technique that trains an algorithm across multiple decentralized edge devices or servers holding local data samples, **without exchanging them**
 - Cohort assignment algorithm should be **unsupervised**, since each provider has their own optimization function
 
 ## Full experiment
