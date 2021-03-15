@@ -8,7 +8,7 @@ Photo by <a href="https://unsplash.com/@foodess?utm_source=unsplash&utm_medium=r
 
 Third-party cookies have (since 1994) been a key enabler of the commercial Internet and **fine-grained digital ad targeting**
 
-They helped achieve **unprecedented audience segmentation and attribution** - helping to connect marketing tactics with results in ways that were virtually impossible in the most traditional forms of media.
+They have helped achieve **unprecedented audience segmentation and attribution** - helping to connect marketing tactics with results in ways that were virtually impossible in the most traditional forms of media.
 
 To bring users more transparency and better consent management, most browsers are ending support for third-party cookies.
 
@@ -18,9 +18,11 @@ To bring users more transparency and better consent management, most browsers ar
 
 Some alternatives are being proposed to replace the need for third-party cookies, ensuring users' privacy, but without loss of performance for advertisers.
 
-In this post you will learn a little more about **FLoC**, an alternative proposed by Google, and we will navigate through a simplified demonstration of the algorithm using a public dataset.
+In this post you will learn a little more about **Federated Learning of Cohorts (FLoC)**, an alternative proposed by Google, and we will navigate through a simplified demonstration of the algorithm using a public dataset.
 
-## FLoC's Goal
+# Federated Learning of Cohorts (FLoC)
+
+## Goal
 > **"Preserve interest based advertising, but in a privacy-preserving manner"**
 
 ### Overview
